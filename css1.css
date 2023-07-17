@@ -22,7 +22,8 @@ h1,h2,h3,h4,h5,h6,
     box-shadow: var(--dark);
 }
 .navbar .logo{
-    width: 170PX;
+   width: 150px;
+    height: 50px;
 }
 .navbar .nav-link{
     font-size: 17px;
